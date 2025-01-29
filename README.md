@@ -1,5 +1,3 @@
-This Python project calculates a person's age in various time units such as years, months, days, hours, and seconds. It takes the date of birth as input and provides an accurate breakdown of the person's age. The project is designed to be simple and easy to use.
-
 # Python_Project
 age_in_years = int(input("Enter your age in years: "))
 
